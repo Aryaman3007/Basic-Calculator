@@ -1,6 +1,6 @@
 # Basic-Calculator 
 
-Demo-Link : https://basic-calculator-aryaman3007.vercel.app/
+**Demo-Link** : https://basic-calculator-aryaman3007.vercel.app/
 
 This is a simple implementation of a basic calculator built using HTML, CSS, and JavaScript.
 
